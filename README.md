@@ -70,7 +70,7 @@ Please see: http://get-simple.info/docs/upgrading
 
 DISCLAIMER
 -----------------------------------
-
+11
 While GetSimple strives to be a secure and stable application, we simply cannot 
 be held liable for any information loss, corruption or anything else that may 
 happen to your site while it is using the our software. 
